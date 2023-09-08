@@ -1,0 +1,83 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para la barra de navegación */
+aside.navbar {
+    background-color: #777;
+    color: white;
+    padding: 10px 0;
+    text-align: right;
+}
+
+aside.navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+aside.navbar li {
+    display: inline;
+    margin-right: 20px; 
+}
+
+aside.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+aside.navbar a:hover {
+    color: black;
+}
+
+/* Estilos para el contenedor principal */
+div.container {
+    display: flex;
+}
+
+/* Estilos para el contenido principal */
+section.main-content {
+    flex: 5;
+    color: black;
+    padding: 20px;
+}
+
+/* Estilos para la barra lateral */
+aside.panel {
+    background-color: #555;
+    color: white;
+    flex: 1;
+    padding: 20px;
+}
+
+aside.panel ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+aside.panel li {
+    margin-bottom: 10px;
+}
+
+aside.panel a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}

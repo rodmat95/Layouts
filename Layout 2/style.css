@@ -1,0 +1,61 @@
+/* Estilos para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    /* Utilizamos flexbox para alinear elementos en el cuerpo */
+}
+
+/* Estilos para la barra lateral (aside) */
+aside.sidebar {
+    background-color: #555;
+    color: white;
+    padding: 20px;
+    flex: 1;
+}
+
+aside.sidebar ul {
+    list-style-type: none;
+    padding: 10px;
+}
+
+aside.sidebar li {
+    margin-bottom: 10px;
+}
+
+aside.sidebar a {
+    color: white;
+    text-decoration: none;
+}
+
+aside.sidebar a:hover {
+    color: black;
+}
+
+/* Estilos para el contenedor principal */
+div.container {
+    flex: 5;
+}
+
+/* Estilos para el encabezado */
+header {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+/* Estilos para la sección de contenido principal */
+section.main-content {
+    color: black;
+    padding: 10px;
+}
+
+/* Estilos para el pie de página */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
