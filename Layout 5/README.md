@@ -1,3 +1,3 @@
 # Layouts 5
 
-![Layout 5](https://github.com/rodmat95/Layouts/assets/124494629/c1cbc647-4a1b-4656-932c-c79525899e81)
+![Layout 5](https://github.com/rodmat95/Layouts/assets/124494629/f72e33e0-7042-4cc5-ab68-9a09f15d95d2)
